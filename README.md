@@ -1,15 +1,15 @@
-# Snowflake SNOWPRO CORE EXAM STUDY GUIDE
+# Snowflake SnowPro Core Exam Study Guide Notes
 
-Study notes based on the official exam guide revision January 13, 2025.
+> Study notes based on the official exam guide revision January 13, 2025.
 
 ## COF-C02/COF-R02 Exam Domains
 
-- Domain 1.0: Snowflake AI Data Cloud Features and Architecture (24%)
-- Domain 2.0: Account Access and Security (18%)
-- Domain 3.0: Performance and Cost Optimization Concepts (16%)
-- Domain 4.0: Data Loading and Unloading (12%)
-- Domain 5.0: Data Transformations (18%)
-- Domain 6.0: Data Protection and Data Sharing (12%)
+- Domain 1.0: [Snowflake AI Data Cloud Features and Architecture](snowflake_ai_data_cloud_features_and_architecture) (24%)
+- Domain 2.0: [Account Access and Security](account_access_and_security) (18%)
+- Domain 3.0: [Performance and Cost Optimization Concepts](performance_and_cost_optimization_concepts) (16%)
+- Domain 4.0: [Data Loading and Unloading](data_loading_and_unloading) (12%)
+- Domain 5.0: [Data Transformations](data_transformations) (18%)
+- Domain 6.0: [Data Protection and Data Sharing](data_protection_and_data_sharing) (12%)
 
 ## Table of Contents
 
