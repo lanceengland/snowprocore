@@ -1,6 +1,8 @@
 # Snowflake SnowPro Core Exam Study Guide Notes
 
-> Study notes based on the official exam guide revision January 13, 2025.
+> Study notes based on the official exam guide revision August 22, 2025.
+
+This repo is published to [https://snowflake-study-group-atlanta.github.io/snowprocore/](https://snowflake-study-group-atlanta.github.io/snowprocore/). 
 
 ## COF-C02/COF-R02 Exam Domains
 
