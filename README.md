@@ -53,8 +53,7 @@ This repo is published to [https://snowflake-study-group-atlanta.github.io/snowp
 2.  Account Access and Security
     -   Outline security principles
         -   Network security and policies
-        -   Multi-Factor Authentication
-        -   (MFA) enforcement
+        -   Multi-Factor Authentication (MFA) enforcement
         -   Federated authentication
         -   Key pair authentication
         -   Single Sign-On (SSO)
@@ -156,13 +155,13 @@ This repo is published to [https://snowflake-study-group-atlanta.github.io/snowp
         -   SAMPLE command
         -   /TABLESAMPLE command
         -   Sampling methods
-        -   Fraction-based
-        -   Fixed-size
+            -   Fraction-based
+            -   Fixed-size
         -   Supported function types
-        -   System functions
-        -   Table functions
-        -   External functions
-        -   User-Defined Functions (UDFs)
+            -   System functions
+            -   Table functions
+            -   External functions
+            -   User-Defined Functions (UDFs)
         -   Stored procedures
         -   Streams
         -   Tasks

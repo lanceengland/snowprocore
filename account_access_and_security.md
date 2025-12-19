@@ -4,9 +4,7 @@
 
 ### Network security and policies
 
-### Multi-Factor Authentication
-
-### (MFA) enforcement
+### Multi-Factor Authentication (MFA) enforcement
 
 ### Federated authentication
 

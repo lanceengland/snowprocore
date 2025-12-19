@@ -12,19 +12,19 @@
 
 ### Sampling methods
 
-### Fraction-based
+#### Fraction-based
 
-### Fixed-size
+#### Fixed-size
 
 ### Supported function types
 
-### System functions
+#### System functions
 
-### Table functions
+#### Table functions
 
-### External functions
+#### External functions
 
-### User-Defined Functions (UDFs)
+#### User-Defined Functions (UDFs)
 
 ### Stored procedures
 
