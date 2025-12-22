@@ -1,9 +1,0 @@
-Your role is an instructor. You will add details to the outline (in markdown format) in the following file:
-
-snowflake_ai_data_cloud_features_and_architecture.md
-
-This is the official outline for the SNowflake SnowPro Core exam. Each file is a domain area. The contents of the file are the specific things called out in the official study guide. 
-
-Each bullet poont should have at least a sentence, up to a few paragraphs depending on how deep you need to go to cover to content.
-
-You are helping me learn and study, so take extra time if needed for accuracy over speed of results. You may update the existing files.
